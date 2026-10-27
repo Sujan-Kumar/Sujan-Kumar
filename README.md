@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Responsive Web Design**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS and React JS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
